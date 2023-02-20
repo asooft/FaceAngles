@@ -7,4 +7,16 @@ We used the SVR model as it gave the best results and the lowest MAE error rate
 * sklearn
 * numpy
 * pandas
+# Steps in Notebook:
+* Downloading Data
+* Extract Data
+* Prepare Data features and labels
+* Show data in dataframe
+* Normalize Data (Center all points to nose)
+* Train Test Split
+* Models
+* Draw Axis
+* Landmark for specific image
+* Test image
+* Generate Video with angels (Test Video)
 
