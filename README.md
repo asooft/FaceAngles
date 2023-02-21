@@ -21,6 +21,6 @@ We used the SVR model as it gave the best results and the lowest MAE error rate
 * Generate Video with angels (Test Video)
 
 # Video:
-* Out Video
+* Output Video
 * https://drive.google.com/file/d/1log7mLwgGVBXNfmbmTx5HLVOX3cjNg6E/view?usp=sharing
 
